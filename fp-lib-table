@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SLI-Blank-Card)(type KiCad)(uri ${KIPRJMOD}/lib-footprints/SLI-Blank-Card.pretty)(options "")(descr ""))
+  (lib (name batteryboard-v01b-SLI)(type KiCad)(uri ${KIPRJMOD}/lib-footprints/batteryboard-v01b-SLI.pretty)(options "")(descr ""))
+)
