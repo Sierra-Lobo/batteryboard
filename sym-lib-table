@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name batteryboard-rescue)(type Legacy)(uri ${KIPRJMOD}/lib-symbols/batteryboard-rescue.lib)(options "")(descr ""))
-  (lib (name SLI-Blank-Card)(type Legacy)(uri ${KIPRJMOD}/lib-symbols/SLI-Blank-Card.lib)(options "")(descr ""))
-)
