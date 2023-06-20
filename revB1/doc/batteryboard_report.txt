@@ -1,0 +1,47 @@
+PCB statistics report
+=====================
+- Date: 6/20/2023 7:51:49 PM
+- Project: batteryboard
+- Board name: batteryboard
+
+Board
+-----
+- Width: 3550.00 mils
+- Height: 3982.07 mils
+- Area: 13574122.34 mils²
+
+Pads
+----
+- Through hole: 10
+- SMD: 232
+- Connector: 0
+- NPTH: 18
+
+Vias
+----
+- Through vias: 137
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |         13 |         7 |    20 |
+|SMD:          |         18 |         9 |    27 |
+|Unspecified:  |          1 |         0 |     1 |
+|Total:        |         32 |        16 |    48 |
+
+Drill holes
+-----------
+
+| Count | Shape |      X Size |      Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-------------|-------------|--------|---------|-------------|------------|
+|   128 | Round |  14.00 mils |  14.00 mils |    PTH |     Via |        F.Cu |       B.Cu |
+|    12 | Round | 135.83 mils | 135.83 mils |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     9 | Round |   8.00 mils |   8.00 mils |    PTH |     Via |        F.Cu |       B.Cu |
+|     6 | Round |  61.81 mils |  61.81 mils |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round |  39.37 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 125.00 mils | 125.00 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round |  27.56 mils |  27.56 mils |    PTH |     Pad |        F.Cu |       B.Cu |
